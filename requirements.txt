@@ -1,0 +1,2 @@
+# Requirements for Buried Acorns project
+# Add dependencies here as needed
